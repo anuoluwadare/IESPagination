@@ -1,0 +1,10 @@
+C:\Workspace\IES\IES.Pagination\obj\Release\netstandard2.1\IES.Pagination.csproj.AssemblyReference.cache
+C:\Workspace\IES\IES.Pagination\obj\Release\netstandard2.1\IES.Pagination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\IES\IES.Pagination\obj\Release\netstandard2.1\IES.Pagination.AssemblyInfoInputs.cache
+C:\Workspace\IES\IES.Pagination\obj\Release\netstandard2.1\IES.Pagination.AssemblyInfo.cs
+C:\Workspace\IES\IES.Pagination\obj\Release\netstandard2.1\IES.Pagination.csproj.CoreCompileInputs.cache
+C:\Workspace\IES\IES.Pagination\bin\Release\netstandard2.1\IES.Pagination.deps.json
+C:\Workspace\IES\IES.Pagination\bin\Release\netstandard2.1\IES.Pagination.dll
+C:\Workspace\IES\IES.Pagination\bin\Release\netstandard2.1\IES.Pagination.pdb
+C:\Workspace\IES\IES.Pagination\obj\Release\netstandard2.1\IES.Pagination.dll
+C:\Workspace\IES\IES.Pagination\obj\Release\netstandard2.1\IES.Pagination.pdb

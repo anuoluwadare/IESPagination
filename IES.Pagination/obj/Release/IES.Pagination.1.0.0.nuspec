@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IES.Pagination</id>
+    <version>1.0.0</version>
+    <authors>Anu Oluwadare</authors>
+    <projectUrl>https://github.com/anuoluwadare</projectUrl>
+    <description>Pagination Library for Web API Controller responses</description>
+    <tags>Pagination</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.WebUtilities" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Workspace\IES\IES.Pagination\bin\Release\netstandard2.0\IES.Pagination.dll" target="lib\netstandard2.0\IES.Pagination.dll" />
+  </files>
+</package>
